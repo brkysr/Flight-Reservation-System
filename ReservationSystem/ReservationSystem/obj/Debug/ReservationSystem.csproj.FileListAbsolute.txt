@@ -1,0 +1,11 @@
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\bin\Debug\ReservationSystem.exe.config
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\bin\Debug\ReservationSystem.exe
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\bin\Debug\ReservationSystem.pdb
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\obj\Debug\ReservationSystem.csproj.AssemblyReference.cache
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\obj\Debug\ReservationSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\obj\Debug\ReservationSystem.Form1.resources
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\obj\Debug\ReservationSystem.Properties.Resources.resources
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\obj\Debug\ReservationSystem.csproj.GenerateResource.cache
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\obj\Debug\ReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\obj\Debug\ReservationSystem.exe
+C:\Users\burak\Desktop\C# Çalışma\ReservationSystem\ReservationSystem\obj\Debug\ReservationSystem.pdb
